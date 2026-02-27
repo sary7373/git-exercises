@@ -1,0 +1,1 @@
+Die beiden Dateien 'foo.txt' und 'bar.txt' haben jetzt als Status vorne nicht mehr zwei Fragezeichen, sondern ein grosses A.
