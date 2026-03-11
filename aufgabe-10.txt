@@ -1,0 +1,4 @@
+1. die Löschung von dem mit git rm ist gestaged und die andere nicht
+2. git checkout?
+3. die mit git, weil dann automatisch erkannt wird, dass es noch die selbe 
+Datei ist und keine komplett neue -> die History etc. wird behalten

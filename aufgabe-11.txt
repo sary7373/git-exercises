@@ -1,0 +1,3 @@
+1. git log -1 -> nur neusten commit anschauen
+2. git log --pretty=short -> schöner kurzer Überblick über die Commits
+3. git log --graph -> vor allem toll bei mehreren Branches, visualisiert die Commit-History sehr schön
